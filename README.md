@@ -6,3 +6,5 @@
 
 初始交互界面中默认背景是一个iphone6：
 ![Image text](https://github.com/James0231/Data-Visualization-PJ/blob/master/img-folder/1.png)
+
+然后在上方菜单栏中选择add obj file可以导入obj文件，我们随便选择一张，例如：zxh-ape.obj，效果如下：
