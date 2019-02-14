@@ -7,6 +7,15 @@
 初始交互界面中默认背景是一个iphone6：
 ![Image text](https://github.com/James0231/Data-Visualization-PJ/blob/master/img-folder/1.png)
 
-然后在上方菜单栏中选择add obj file可以导入obj文件，我们随便选择一张，例如：zxh-ape.obj，效果如下
+然后在上方菜单栏中选择add obj file可以导入obj文件，我们随便选择一张，例如：zxh-ape.obj，效果如下：
+![Image text](https://github.com/James0231/Data-Visualization-PJ/blob/master/img-folder/3.png)
+
 在菜单栏选择导入ffd形变文件之后，会生成包围住物体的红色控制点，效果如下：
 ![Image text](https://github.com/James0231/Data-Visualization-PJ/blob/master/img-folder/2.png)
+
+用户可以拖动控制点，实现物体的形变，例如拖动鼻子附近控制点会把鼻子拉长：
+![Image text](https://github.com/James0231/Data-Visualization-PJ/blob/master/img-folder/4.png)
+
+菜单栏中的to ffd可以将用户的形变操作保存为ffd文件。
+
+菜单栏中最后一项开启聚光灯还没有点击时可能会出现程序崩溃。
