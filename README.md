@@ -7,7 +7,6 @@
 初始交互界面中默认背景是一个iphone6：
 ![Image text](https://github.com/James0231/Data-Visualization-PJ/blob/master/img-folder/1.png)
 
-然后在上方菜单栏中选择add obj file可以导入obj文件，我们随便选择一张，例如：zxh-ape.obj，效果如下：
-
+然后在上方菜单栏中选择add obj file可以导入obj文件，我们随便选择一张，例如：zxh-ape.obj，效果如下
 在菜单栏选择导入ffd形变文件之后，会生成包围住物体的红色控制点，效果如下：
 ![Image text](https://github.com/James0231/Data-Visualization-PJ/blob/master/img-folder/2.png)
